@@ -1,0 +1,10 @@
+.col-lg-4 div{
+	border:2px solid #ccc;
+	margin-bottom:15px;
+	padding:0 10px;
+	text-align:justify;
+	background:#ccc;
+}
+#navbar-top{
+	border-radius:0;
+}
